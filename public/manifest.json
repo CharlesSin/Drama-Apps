@@ -1,0 +1,15 @@
+{
+  "short_name": "Charles Drama App",
+  "name": "Charles Drama App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "96x96 32x32 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F4DBD8",
+  "background_color": "#ECE5F0"
+}
